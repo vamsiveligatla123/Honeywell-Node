@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1K",
+    "isFilled": true,
+    "name": "KGF2",
+    "fare": 100,
+    "time": "2PM-5PM",
+    "date": "01-11-2022",
+    "movieId": 2
+  },
+  {
+    "id": "2K",
+    "isFilled": true,
+    "name": "KGF2",
+    "fare": 100,
+    "time": "2PM-5PM",
+    "date": "01-11-2022",
+    "movieId": 2
+  },
+  {
+    "id": "3K",
+    "isFilled": false,
+    "name": "KGF2",
+    "fare": 100,
+    "time": "2PM-5PM",
+    "date": "01-11-2022",
+    "movieId": 2
+  },
+  {
+    "id": "4K",
+    "isFilled": true,
+    "name": "KGF2",
+    "fare": 100,
+    "time": "2PM-5PM",
+    "date": "01-11-2022",
+    "movieId": 2
+  },
+  {
+    "id": "5K",
+    "isFilled": false,
+    "name": "KGF2",
+    "fare": 100,
+    "time": "2PM-5PM",
+    "date": "01-11-2022",
+    "movieId": 2
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "movieId": 1,
+    "name": "Bhahubali2",
+    "isShow": true
+  },
+  {
+    "movieId": 2,
+    "name": "KGF2",
+    "isShow": true
+  }
+]

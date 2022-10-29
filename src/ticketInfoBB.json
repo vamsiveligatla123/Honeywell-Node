@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1B",
+    "isFilled": false,
+    "name": "Bhahubali2",
+    "fare": 200,
+    "time": "11AM-1PM",
+    "date": "30-10-2022",
+    "movieId": 1
+  },
+  {
+    "id": "2B",
+    "isFilled": true,
+    "name": "Bhahubali2",
+    "fare": 200,
+    "time": "11AM-1PM",
+    "date": "30-10-2022",
+    "movieId": 1
+  },
+  {
+    "id": "3B",
+    "isFilled": false,
+    "name": "Bhahubali2",
+    "fare": 200,
+    "time": "11AM-1PM",
+    "date": "30-10-2022",
+    "movieId": 1
+  },
+  {
+    "id": "4B",
+    "isFilled": true,
+    "name": "Bhahubali2",
+    "fare": 200,
+    "time": "11AM-1PM",
+    "date": "30-10-2022",
+    "movieId": 1
+  },
+  {
+    "id": "5B",
+    "isFilled": false,
+    "name": "Bhahubali2",
+    "fare": 200,
+    "time": "11AM-1PM",
+    "date": "30-10-2022",
+    "movieId": 1
+  }
+]
